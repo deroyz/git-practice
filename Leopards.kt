@@ -1,4 +1,4 @@
 class Leopards {
-    val manager = "Luke"
+    val manager = "Nora"
     val members = arrayOf("Linda", "William", "David")
 }
