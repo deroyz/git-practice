@@ -1,4 +1,9 @@
 class Panthers {
     val manager = "Nora"
-    val members = arrayOf("Linda", "William", "David", "John")
+
+
+
+    val coach = "Young"
+    val members = arrayOf("Linda", "William", "David")
+
 }
