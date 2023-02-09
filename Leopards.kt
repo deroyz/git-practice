@@ -4,6 +4,6 @@ class Leopards {
 
 
     val coach = "Young"
-    val members = arrayOf("Linda", "William", "David", "Evie")
+    val members = arrayOf("Linda", "William", "David", "Evie", ")
 
 }
